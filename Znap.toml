@@ -1,0 +1,8 @@
+identity = "~/.config/solana/id.json"
+rpc_url = "https://rpc.shyft.to?api_key=IKuvnVDhazm7wB27"
+
+[[collections]]
+name = "mano-tengo-fe"
+address = "127.0.0.1"
+port = 3000
+protocol = "http"
